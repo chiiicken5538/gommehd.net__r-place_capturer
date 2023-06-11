@@ -1,5 +1,6 @@
 # gommehd.net__r-place_capturer
 Captures every x seconds the Map progress from the GommeHD.NET r/place event. 
+Usefull if you want to create your own timelapse videos in your custom framerate.
 
 # Settings
 You can change the interval in the config.json file (value are full seconds [1000ms])
